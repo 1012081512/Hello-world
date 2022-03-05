@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "board.h": "c",
+        "n32_msp.h": "c",
+        "drv_usart.h": "c",
+        "rthw.h": "c",
+        "rtdevice.h": "c",
+        "n32g45x.h": "c"
+    }
+}
